@@ -19,3 +19,10 @@
     the terminal shows below text when server is running
 
     Server started on port 3001
+
+
+## 05.Admin Credentials
+    Admin User Credentials
+
+    Email - tasheelajay1999@gmail.com
+    password - admin123
